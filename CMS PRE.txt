@@ -18,3 +18,5 @@ Un système de gestion de contenu regroupe des logiciels utilisés pour la créa
 A CMS includes softwares used for website creation and animation.
 CMS : les acteurs
 Wordpress, Drupal, Adobe, Joomla. 
+Elementor : pour modifier sur le contenu.
+Resume Builder :pour creation de cv.
